@@ -1,10 +1,10 @@
-Ethan Ward - Web Developer from New York
+Wendy Atieno - Web Developer from Nairobi, Kenya
 
 
 
 #---------- HEADER ----------#
 
-Ethan Ward
+Wendy Atieno
 
 aria-label = Toggle Menu
 
@@ -24,7 +24,7 @@ Download CV
 
 #---------- HERO ----------#
 
-alt = Ethan's Photo
+alt = Wendy's Photo
 
 12
 Years of Success
@@ -34,13 +34,13 @@ Projects Completed
 
 <ion-icon name="trophy"></ion-icon>
 
-alt = I'm developer from New York
+alt = I'm developer from Nairobi
 
 Hello I'm
 
-Ethan Ward
+Wendy Atieno
 
-Web Developer from New York
+Web Developer from Nairobi
 
 Adipisicing elit. Neque nulla voluptatum eos repellat deserunt nesciunt tempore porro totam.
 
@@ -52,9 +52,9 @@ About Me
 
 #---------- ABOUT ----------#
 
-alt = Ethan's Photo
+alt = Wendy's Photo
 
-alt = Ethan's Photo
+alt = Wendy's Photo
 
 <ion-icon name="logo-css3"></ion-icon>
 <ion-icon name="logo-javascript"></ion-icon>
@@ -139,11 +139,11 @@ Submit Message
 
 <ion-icon name="location"></ion-icon>
 Address
-20, London, United Kingdom
+00100, Nairobi, Kenya
 
 <ion-icon name="mail"></ion-icon>
 Email
-hello@ethan.com
+attienowendy696@gmail.com
 
 <ion-icon name="call"></ion-icon>
 Phone
@@ -169,7 +169,7 @@ Jim Morisson Says when the musics over turn off the light
 
 #---------- FOOTER ----------#
 
-&copy; 2022 codewithsadee. All Rights Reseverd
+&copy; 2022 wendyyy. All Rights Reseverd
 
 Terms & Condition 
 Privacy Policy
